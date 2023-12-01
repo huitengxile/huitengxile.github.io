@@ -23,7 +23,7 @@ multiline quote
 print('Hello, world!')
 ```
 
-$$ x + y = z $$
+$$x + y = z$$
 
-$ x + y = z $
+$x + y = z$
 
